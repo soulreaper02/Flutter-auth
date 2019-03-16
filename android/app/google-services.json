@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "472361350304",
+    "firebase_url": "https://cerebro-223808.firebaseio.com",
+    "project_id": "cerebro-223808",
+    "storage_bucket": "cerebro-223808.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472361350304:android:5062a087e28bcd89",
+        "android_client_info": {
+          "package_name": "com.example.trufit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472361350304-vl7ka1qvidqnok0b7anojei0cmjo3lob.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAQE7EnJy2-hu54AfecR34fXl5TGzsIk8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
